@@ -1,0 +1,19 @@
+{
+  "name": "email-sender-nodejs",
+  "version": "1.0.0",
+  "description": "Nodejs app for sending email with the help of nodemailer library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rishabh062/email-sender-nodejs.git"
+  },
+  "author": "Rishabh Dwivedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rishabh062/email-sender-nodejs/issues"
+  },
+  "homepage": "https://github.com/Rishabh062/email-sender-nodejs#readme"
+}
