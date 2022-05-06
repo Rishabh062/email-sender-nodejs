@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Rishabh062/email-sender-nodejs/issues"
   },
-  "homepage": "https://github.com/Rishabh062/email-sender-nodejs#readme"
+  "homepage": "https://github.com/Rishabh062/email-sender-nodejs#readme",
+  "dependencies": {
+    "nodemailer": "^6.7.5"
+  }
 }
